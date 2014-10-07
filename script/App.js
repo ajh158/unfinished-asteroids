@@ -1,7 +1,5 @@
 var app = playground({
 
-  container: window,
-  
   width: 640,
   
   height: 480,
